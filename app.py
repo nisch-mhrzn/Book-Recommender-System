@@ -6,5 +6,9 @@ app =Flask(__name__)
 def index():
     return render_template('index.html',book_name=list(popular_df['Book-Title'].values),author=list(popular_df['Book-Author'].values),image=list(popular_df['Image-URL-M'].values),votes=list(popular_df['num_ratings'].values),rating=list(popular_df['avg_ratings'].values))
 
+@app.route('/recommend')
+def recommend_ui():
+    return render_template('recommend.html')
+
 if __name__ == "__main__":
     app.run(debug=True)
