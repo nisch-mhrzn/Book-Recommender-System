@@ -65,7 +65,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request.  
 
 ### Contributors
-- **Your Name** - [GitHub](https://github.com/nisch-mhrzn)
+- **Nischal Maharjan** - [GitHub](https://github.com/nisch-mhrzn)
+- **Sampada Tandan** - [GitHub](https://github.com/SampadaTandan)
 
 ---
 
