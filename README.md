@@ -2,8 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/downloads/)  
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/nisch-mhrzn/book-recommender-system)](https://github.com/your-username/book-recommender-system/commits/main)  
-[![Repo Size](https://img.shields.io/github/repo-size/nisch-mhrzn/book-recommender-system)](https://github.com/your-username/book-recommender-system)  
+[![Last Commit](https://img.shields.io/github/last-commit/nisch-mhrzn/book-recommender-system)](https://github.com/nisch-mhzrn/Book-Recommender-System-/commits/main)  
+[![Repo Size](https://img.shields.io/github/repo-size/nisch-mhrzn/book-recommender-system)](https://github.com/nisch-mhrzn/Book-Recommender-System-)  
 
 ## 📖 Overview
 The **Book Recommender System** is a Flask-based application that suggests books to users based on collaborative filtering. Users can also browse popular books and their ratings.
